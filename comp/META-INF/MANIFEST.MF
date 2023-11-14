@@ -1,0 +1,3 @@
+Main-Class: program.Program
+Class-Path: Pokemon.jar
+Manifest-Version: 1.0
